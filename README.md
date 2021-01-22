@@ -1,6 +1,6 @@
 # Brand Circle Loading
 
-<img src="https://github.com/sulthanalihsan/brand_circle_loading/blob/master/images/gif1.gif" width=200 height=429/> <img src="https://github.com/sulthanalihsan/brand_circle_loading/blob/master/images/gif2.gif?raw=true" width=200 height=429/> 
+<img src="https://github.com/sulthanalihsan/brand_circle_loading/blob/master/images/gif1.gif?raw=true" width=200 height=429/> <img src="https://github.com/sulthanalihsan/brand_circle_loading/blob/master/images/gif2.gif?raw=true" width=200 height=429/> 
 
 ## Installing
 

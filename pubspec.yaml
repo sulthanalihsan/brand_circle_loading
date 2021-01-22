@@ -1,7 +1,6 @@
 name: brand_circle_loading
 description: A simple circle loading with brand logo inside
 version: 0.0.1
-author: sulthanalihsan
 homepage: https://sulthanalihsan.dev/
 
 environment:
